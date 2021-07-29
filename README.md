@@ -4,7 +4,7 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=w3sfx&show_icons=true&locale=pt-BR&theme=dark)](https://github.com/w3sfx/)
 
-<img src="https://raw.githubusercontent.com/w3sfx/w3sfx/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/w3sfx/w3sfx/blob/main/.github/workflows/main.yml">
 <!--
 **w3sfx/w3sfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
