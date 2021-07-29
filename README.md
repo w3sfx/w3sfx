@@ -11,6 +11,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=w3sfx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3sfx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
+<img src="https://raw.githubusercontent.com/w3sfx/w3sfx/output/github-contribution-grid-snake.svg">
 <!--
 **w3sfx/w3sfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
