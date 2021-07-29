@@ -1,5 +1,9 @@
-### Olá, tudo bom? Me chamo Wesley Victor, seja bem vindo(a) ao meu perfil <br> aqui compartilho minhas experiências e projetos.
-
+Olá, tudo bem? Me chamo Wesley Victor, seja bem vindo(a) ao meu perfil <br> aqui compartilho minhas experiências e projetos.
+ <div>
+  <a href="https://github.com/w3sfx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w3sfx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3sfx&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!--
 **w3sfx/w3sfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
