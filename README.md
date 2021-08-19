@@ -1,4 +1,8 @@
 🎫 Olá, tudo bem? Me chamo Wesley Victor, seja bem vindo(a) ao meu perfil,<br> aqui compartilho minhas experiências e projetos.
+
+💡 Skills: <strong>HTML/CSS, PHP, Python, Java.</strong>
+
+⚙️ Tools: <strong>VSCode, PyCharm, Eclipse, Linux, Git and GitHub.</strong>
 <hr>
 <div  align="center"> 
   <a href="https://www.youtube.com/channel/UC1husJrbXb-_oUmdE5gK6Vw" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
