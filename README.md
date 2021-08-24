@@ -1,6 +1,6 @@
 🎫 Olá, tudo bem? Me chamo Wesley Victor, seja bem vindo(a) ao meu perfil,<br> aqui compartilho minhas experiências e projetos.
 
-💡 Skills: <strong>HTML/CSS, PHP, Python, Java.</strong>
+💡 Skills: <strong>HTML/CSS, PHP, Python, Java, SQL Server.</strong>
 
 ⚙️ Tools: <strong>VSCode, PyCharm, Eclipse, Linux, Git and GitHub.</strong>
 <hr>
