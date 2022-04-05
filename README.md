@@ -10,7 +10,9 @@
   <a href="https://www.linkedin.com/in/wesley-victor-69a351208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5583991287731&text=Ol%C3%A1%20Wesley%2C%20acabei%20de%20ver%20seu%20perfil%20no%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2300B050?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
+
 <hr>
+
 <div>
   <a href="https://github.com/w3sfx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=w3sfx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
