@@ -1,6 +1,6 @@
 🎫 Olá, tudo bem? Me chamo Wesley Victor, seja bem vindo(a) ao meu perfil,<br> aqui compartilho minhas experiências e projetos.
 
-💡 Skills: <strong>HTML/CSS, BootStrap, PHP, JavaScript, JQuery/Ajax, Laravel, VUE.JS, Node.JS, SQL, PostgreSQL, MySQL, Python, Java.</strong>
+💡 Skills: <strong>HTML/CSS, BootStrap, PHP, Laravel, JavaScript, JQuery/Ajax, Vue.Js, Node.Js, PostgreSQL, MySQL, Python.</strong>
 
 ⚙️ Tools: <strong>VSCode, Postman, PyCharm, Eclipse, Linux, Git.</strong>
 <hr>
